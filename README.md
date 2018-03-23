@@ -1,3 +1,8 @@
+# Waifugenerator
+Script For Generate Waifu (≧▽≦)
+
+----
+
 ## Requirement
 
 ```
